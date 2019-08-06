@@ -1,0 +1,30 @@
+.bedpillows  {
+    color:green;
+    padding-left: 1in;
+}
+.product{
+    margin-left: 20%;
+}
+.captionpillows{
+    color: gray;
+    padding-left: 1in;
+}
+.cp{
+/* margin-left: 20%; */
+padding-top: 10%;
+}
+.cps{
+    margin-left: 5%;
+    padding-top: 5%;
+}
+.ring{
+    padding-left: 3in;
+}
+.button{
+  margin-left: 40%;
+    background-color: yellow;
+    color: black;
+}
+.btn{
+    color: black;
+}
